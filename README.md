@@ -48,7 +48,7 @@ Veritabanını hemen satın almak için paket seçenekleri:
 ---
 
 ## 🧩 Entegrasyon Kolaylığı
-- PHP + MySQL uyumlu
+- PHP + MySQL + JSON uyumlu
 - Laravel, CodeIgniter gibi framework'lerde kolay entegrasyon
 - JSON API oluşturmak için kullanılabilir
 - Mobil ve web uygulamalarda hızlı entegre edilebilir
@@ -119,7 +119,7 @@ You can purchase the database immediately with the following packages:
 
 ## 🧩 Easy Integration
 
-- ✅ Compatible with PHP + MySQL  
+- ✅ Compatible with PHP + MySQL + JSON 
 - ✅ Easy integration with frameworks like Laravel, CodeIgniter  
 - ✅ Can be used to create JSON APIs  
 - ✅ Quickly integratable with mobile and web applications  
